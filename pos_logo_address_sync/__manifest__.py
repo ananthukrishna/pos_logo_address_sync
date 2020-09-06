@@ -34,6 +34,7 @@
         'base',
         'point_of_sale',
     ],
+    'images': ['images/pos_logo_address_sync.png'],
     'data': [
         'views/pos_image_view.xml',
         'views/pos_config_view.xml',
